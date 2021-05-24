@@ -1,5 +1,5 @@
 # Margot Robbie
-Margot Robbie Python Module
+Margot Robbie for Python
 
 ## Installation
 ```
