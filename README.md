@@ -5,3 +5,13 @@ Margot Robbie for Python
 ```
 $ pip install MargotRobbie
 ```
+
+## Usage
+```python
+Margot = MargotRobbie.MargotRobbie()
+
+print(MargotRobbie.Name)
+print(MargotRobbie.Birthday)
+print(MargotRobbie.Height)
+print(MargotRobbie.Age)
+```
