@@ -22,5 +22,5 @@ setup(
   classifiers=Classifiers,
   packages=find_packages(),
   keywords="MargotRobbie Margot Robbie",
-  install_requires=["datetime"]
+  install_requires=[]
 )
